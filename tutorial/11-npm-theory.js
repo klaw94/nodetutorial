@@ -28,3 +28,10 @@ console.log(newItems)
 //Another way is deleteing package-log.json and node_modules and delete de dependency in package.json
 //run then `npm install` and it wont install bootstrap.
 //Useful for Gatsby
+
+//The version of the dependencies has 3 numbers: 4.17.20;
+// - The first are major changes/
+// - The second are minor changes.
+// - The 3rd is patches for bugs. 
+
+//For more info check https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm
