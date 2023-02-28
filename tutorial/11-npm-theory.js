@@ -17,6 +17,7 @@
 //All the dependencies and the dependencies of the dependencies are added to the node_modules. 
 
 //The external packages you have to install them first.
+//You have to include the node_module in git ignore, so you don't push them
 const _ = require('lodash');
 
 const items = [1, [2, [3, [4]]]]
