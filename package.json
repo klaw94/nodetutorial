@@ -5,7 +5,7 @@
   "main": "./tutorial/1-globals.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon 14-async-patter"
   },
   "keywords": [],
   "author": "",
