@@ -6,3 +6,5 @@
 
 //In the package.json "scripts" lets you give commands to your app. So "start" : "node app.js", so when you run npm start
 //you are running node app.js
+
+//npx is easy to get dependencies without installing them globally

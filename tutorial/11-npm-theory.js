@@ -23,3 +23,8 @@ const _ = require('lodash');
 const items = [1, [2, [3, [4]]]]
 const newItems = _.flattenDeep(items)
 console.log(newItems)
+
+//to uninstall: `npm uninstall bootstrap`
+//Another way is deleteing package-log.json and node_modules and delete de dependency in package.json
+//run then `npm install` and it wont install bootstrap.
+//Useful for Gatsby
